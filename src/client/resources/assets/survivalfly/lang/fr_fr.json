@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "Le mode créatif n'a pas besoin de cette commande !",
+	"survivalfly.msg.spectator": "Le mode spectateur ne peut pas utiliser cette commande !",
+	"survivalfly.msg.fly.already": "Vous avez déjà la permission de voler !",
+	"survivalfly.msg.fly.granted": "Permission de vol accordée !",
+	"survivalfly.msg.defly.none": "Vous n'avez pas la permission de voler !",
+	"survivalfly.msg.defly.revoked": "Permission de vol révoquée !",
+	"survivalfly.msg.landing.revoked": "Permission de vol révoquée automatiquement à l'atterrissage !",
+	"survivalfly.screen.title": "Paramètres de SurvivalFly",
+	"survivalfly.screen.toggle.label": "Révoquer le vol automatiquement à l'atterrissage",
+	"survivalfly.screen.state.on": "ACTIVÉ",
+	"survivalfly.screen.state.off": "DÉSACTIVÉ",
+	"survivalfly.screen.key.fly": "Touche de vol (/fly)",
+	"survivalfly.screen.key.defly": "Touche d'arrêt (/defly)",
+	"survivalfly.screen.key.settings": "Raccourci du panneau de réglages",
+	"survivalfly.screen.done": "Terminé",
+	"survivalfly.screen.unset": "Non défini",
+	"survivalfly.screen.capture.prompt": "Appuyez sur une touche… (touche seule ou combinaison de deux touches, Échap pour annuler)"
+}

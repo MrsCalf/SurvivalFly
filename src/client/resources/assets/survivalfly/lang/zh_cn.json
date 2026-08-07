@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "创造模式无需使用此指令！",
+	"survivalfly.msg.spectator": "旁观模式无法使用此指令！",
+	"survivalfly.msg.fly.already": "你已经拥有飞行权限！",
+	"survivalfly.msg.fly.granted": "已获得飞行权限！",
+	"survivalfly.msg.defly.none": "你没有飞行权限！",
+	"survivalfly.msg.defly.revoked": "飞行权限已撤销！",
+	"survivalfly.msg.landing.revoked": "落地自动撤销飞行权限！",
+	"survivalfly.screen.title": "SurvivalFly 设置",
+	"survivalfly.screen.toggle.label": "落地自动撤销飞行权限",
+	"survivalfly.screen.state.on": "开",
+	"survivalfly.screen.state.off": "关",
+	"survivalfly.screen.key.fly": "飞行键 (/fly)",
+	"survivalfly.screen.key.defly": "撤销键 (/defly)",
+	"survivalfly.screen.key.settings": "设置面板快捷键",
+	"survivalfly.screen.done": "完成",
+	"survivalfly.screen.unset": "未设置",
+	"survivalfly.screen.capture.prompt": "按下按键…（单键或两键组合，Esc 取消）"
+}

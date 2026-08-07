@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "Creative mode doesn't need this command!",
+	"survivalfly.msg.spectator": "Spectator mode can't use this command!",
+	"survivalfly.msg.fly.already": "You already have flight permission!",
+	"survivalfly.msg.fly.granted": "Flight permission granted!",
+	"survivalfly.msg.defly.none": "You don't have flight permission!",
+	"survivalfly.msg.defly.revoked": "Flight permission revoked!",
+	"survivalfly.msg.landing.revoked": "Flight permission auto-revoked on landing!",
+	"survivalfly.screen.title": "SurvivalFly Settings",
+	"survivalfly.screen.toggle.label": "Auto-revoke flight on landing",
+	"survivalfly.screen.state.on": "ON",
+	"survivalfly.screen.state.off": "OFF",
+	"survivalfly.screen.key.fly": "Fly key (/fly)",
+	"survivalfly.screen.key.defly": "Defly key (/defly)",
+	"survivalfly.screen.key.settings": "Settings panel key",
+	"survivalfly.screen.done": "Done",
+	"survivalfly.screen.unset": "Not set",
+	"survivalfly.screen.capture.prompt": "Press a key... (single key or two-key combo, Esc to cancel)"
+}

@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "В творческом режиме эта команда не нужна!",
+	"survivalfly.msg.spectator": "В режиме наблюдателя эта команда недоступна!",
+	"survivalfly.msg.fly.already": "У вас уже есть разрешение на полёт!",
+	"survivalfly.msg.fly.granted": "Разрешение на полёт выдано!",
+	"survivalfly.msg.defly.none": "У вас нет разрешения на полёт!",
+	"survivalfly.msg.defly.revoked": "Разрешение на полёт отозвано!",
+	"survivalfly.msg.landing.revoked": "Разрешение на полёт автоматически отозвано при приземлении!",
+	"survivalfly.screen.title": "Настройки SurvivalFly",
+	"survivalfly.screen.toggle.label": "Автоотзыв полёта при приземлении",
+	"survivalfly.screen.state.on": "ВКЛ",
+	"survivalfly.screen.state.off": "ВЫКЛ",
+	"survivalfly.screen.key.fly": "Клавиша полёта (/fly)",
+	"survivalfly.screen.key.defly": "Клавиша отмены (/defly)",
+	"survivalfly.screen.key.settings": "Горячая клавиша панели настроек",
+	"survivalfly.screen.done": "Готово",
+	"survivalfly.screen.unset": "Не назначено",
+	"survivalfly.screen.capture.prompt": "Нажмите клавишу… (одиночная клавиша или комбинация из двух, Esc для отмены)"
+}

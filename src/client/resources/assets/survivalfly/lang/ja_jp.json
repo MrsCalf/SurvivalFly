@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "クリエイティブモードではこのコマンドは不要です！",
+	"survivalfly.msg.spectator": "スペクテイターモードではこのコマンドを使えません！",
+	"survivalfly.msg.fly.already": "すでに飛行権限を持っています！",
+	"survivalfly.msg.fly.granted": "飛行権限を付与しました！",
+	"survivalfly.msg.defly.none": "飛行権限を持っていません！",
+	"survivalfly.msg.defly.revoked": "飛行権限を解除しました！",
+	"survivalfly.msg.landing.revoked": "着地時に飛行権限を自動解除しました！",
+	"survivalfly.screen.title": "SurvivalFly 設定",
+	"survivalfly.screen.toggle.label": "着地時に飛行権限を自動解除",
+	"survivalfly.screen.state.on": "オン",
+	"survivalfly.screen.state.off": "オフ",
+	"survivalfly.screen.key.fly": "飛行キー (/fly)",
+	"survivalfly.screen.key.defly": "解除キー (/defly)",
+	"survivalfly.screen.key.settings": "設定パネルのショートカットキー",
+	"survivalfly.screen.done": "完了",
+	"survivalfly.screen.unset": "未設定",
+	"survivalfly.screen.capture.prompt": "キーを押してください…（単一キーまたは2キーの組み合わせ、Escでキャンセル）"
+}

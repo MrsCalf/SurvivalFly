@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "O modo criativo não precisa deste comando!",
+	"survivalfly.msg.spectator": "O modo espectador não pode usar este comando!",
+	"survivalfly.msg.fly.already": "Você já tem permissão de voo!",
+	"survivalfly.msg.fly.granted": "Permissão de voo concedida!",
+	"survivalfly.msg.defly.none": "Você não tem permissão de voo!",
+	"survivalfly.msg.defly.revoked": "Permissão de voo revogada!",
+	"survivalfly.msg.landing.revoked": "Permissão de voo revogada automaticamente ao pousar!",
+	"survivalfly.screen.title": "Configurações do SurvivalFly",
+	"survivalfly.screen.toggle.label": "Revogar o voo automaticamente ao pousar",
+	"survivalfly.screen.state.on": "LIGADO",
+	"survivalfly.screen.state.off": "DESLIGADO",
+	"survivalfly.screen.key.fly": "Tecla de voo (/fly)",
+	"survivalfly.screen.key.defly": "Tecla de cancelamento (/defly)",
+	"survivalfly.screen.key.settings": "Atalho do painel de configurações",
+	"survivalfly.screen.done": "Concluído",
+	"survivalfly.screen.unset": "Não definido",
+	"survivalfly.screen.capture.prompt": "Pressione uma tecla… (tecla única ou combinação de duas, Esc para cancelar)"
+}

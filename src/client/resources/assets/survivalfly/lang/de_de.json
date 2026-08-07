@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "Im Kreativmodus ist dieser Befehl nicht nötig!",
+	"survivalfly.msg.spectator": "Im Zuschauermodus kann dieser Befehl nicht genutzt werden!",
+	"survivalfly.msg.fly.already": "Du hast bereits die Flugberechtigung!",
+	"survivalfly.msg.fly.granted": "Flugberechtigung erteilt!",
+	"survivalfly.msg.defly.none": "Du hast keine Flugberechtigung!",
+	"survivalfly.msg.defly.revoked": "Flugberechtigung widerrufen!",
+	"survivalfly.msg.landing.revoked": "Flugberechtigung bei Landung automatisch widerrufen!",
+	"survivalfly.screen.title": "SurvivalFly-Einstellungen",
+	"survivalfly.screen.toggle.label": "Flug bei Landung automatisch entziehen",
+	"survivalfly.screen.state.on": "AN",
+	"survivalfly.screen.state.off": "AUS",
+	"survivalfly.screen.key.fly": "Flug-Taste (/fly)",
+	"survivalfly.screen.key.defly": "Ausschalt-Taste (/defly)",
+	"survivalfly.screen.key.settings": "Tastenkürzel für Einstellungen",
+	"survivalfly.screen.done": "Fertig",
+	"survivalfly.screen.unset": "Nicht festgelegt",
+	"survivalfly.screen.capture.prompt": "Taste drücken… (einzelne Taste oder Tastenkombination, Esc zum Abbrechen)"
+}

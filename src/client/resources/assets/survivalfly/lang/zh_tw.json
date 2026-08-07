@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "創造模式無需使用此指令！",
+	"survivalfly.msg.spectator": "旁觀模式無法使用此指令！",
+	"survivalfly.msg.fly.already": "你已經擁有飛行權限！",
+	"survivalfly.msg.fly.granted": "已獲得飛行權限！",
+	"survivalfly.msg.defly.none": "你沒有飛行權限！",
+	"survivalfly.msg.defly.revoked": "飛行權限已撤銷！",
+	"survivalfly.msg.landing.revoked": "落地自動撤銷飛行權限！",
+	"survivalfly.screen.title": "SurvivalFly 設定",
+	"survivalfly.screen.toggle.label": "落地自動撤銷飛行權限",
+	"survivalfly.screen.state.on": "開",
+	"survivalfly.screen.state.off": "關",
+	"survivalfly.screen.key.fly": "飛行鍵 (/fly)",
+	"survivalfly.screen.key.defly": "撤銷鍵 (/defly)",
+	"survivalfly.screen.key.settings": "設定面板快捷鍵",
+	"survivalfly.screen.done": "完成",
+	"survivalfly.screen.unset": "未設定",
+	"survivalfly.screen.capture.prompt": "按下按鍵…（單鍵或兩鍵組合，Esc 取消）"
+}

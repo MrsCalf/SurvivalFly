@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "창조 모드에서는 이 명령이 필요 없습니다!",
+	"survivalfly.msg.spectator": "관전 모드에서는 이 명령을 사용할 수 없습니다!",
+	"survivalfly.msg.fly.already": "이미 비행 권한을 가지고 있습니다!",
+	"survivalfly.msg.fly.granted": "비행 권한이 부여되었습니다!",
+	"survivalfly.msg.defly.none": "비행 권한이 없습니다!",
+	"survivalfly.msg.defly.revoked": "비행 권한이 해제되었습니다!",
+	"survivalfly.msg.landing.revoked": "착지 시 비행 권한이 자동 해제되었습니다!",
+	"survivalfly.screen.title": "SurvivalFly 설정",
+	"survivalfly.screen.toggle.label": "착지 시 비행 자동 해제",
+	"survivalfly.screen.state.on": "켜짐",
+	"survivalfly.screen.state.off": "꺼짐",
+	"survivalfly.screen.key.fly": "비행 키 (/fly)",
+	"survivalfly.screen.key.defly": "해제 키 (/defly)",
+	"survivalfly.screen.key.settings": "설정 패널 단축키",
+	"survivalfly.screen.done": "완료",
+	"survivalfly.screen.unset": "설정 안 됨",
+	"survivalfly.screen.capture.prompt": "키를 누르세요… (단일 키 또는 두 키 조합, Esc로 취소)"
+}

@@ -1,0 +1,19 @@
+{
+	"survivalfly.msg.creative": "وضع الإبداع لا يحتاج إلى هذا الأمر!",
+	"survivalfly.msg.spectator": "وضع المشاهد لا يمكنه استخدام هذا الأمر!",
+	"survivalfly.msg.fly.already": "لديك بالفعل إذن الطيران!",
+	"survivalfly.msg.fly.granted": "تم منح إذن الطيران!",
+	"survivalfly.msg.defly.none": "ليس لديك إذن الطيران!",
+	"survivalfly.msg.defly.revoked": "تم إلغاء إذن الطيران!",
+	"survivalfly.msg.landing.revoked": "تم إلغاء إذن الطيران تلقائياً عند الهبوط!",
+	"survivalfly.screen.title": "إعدادات SurvivalFly",
+	"survivalfly.screen.toggle.label": "إلغاء الطيران تلقائياً عند الهبوط",
+	"survivalfly.screen.state.on": "مفعّل",
+	"survivalfly.screen.state.off": "معطّل",
+	"survivalfly.screen.key.fly": "مفتاح الطيران (/fly)",
+	"survivalfly.screen.key.defly": "مفتاح الإلغاء (/defly)",
+	"survivalfly.screen.key.settings": "اختصار لوحة الإعدادات",
+	"survivalfly.screen.done": "تم",
+	"survivalfly.screen.unset": "غير مضبوط",
+	"survivalfly.screen.capture.prompt": "اضغط مفتاحاً… (مفتاح واحد أو مجموعة مفتاحين، Esc للإلغاء)"
+}

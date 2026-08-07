@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "survivalfly",
+	"version": "${version}",
+	"name": "SurvivalFly",
+	"description": "Grants flight permission in survival mode via /fly, auto-revoked on landing (toggleable). /defly revokes it manually. 在生存模式通过 /fly 获得飞行权限，落地后自动撤销（可在设置中关闭），/defly 手动撤销。",
+	"authors": [
+		"MrCalf"
+	],
+	"contact": {
+		"homepage": "https://github.com/MrsCalf",
+		"sources": "https://github.com/MrsCalf/SurvivalFly"
+	},
+	"license": "MIT",
+	"icon": "assets/survivalfly/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.survivalfly.SurvivalFlyMod"
+		],
+		"client": [
+			"com.survivalfly.client.SurvivalFlyClient"
+		],
+		"modmenu": [
+			"com.survivalfly.client.ModMenuIntegration"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"recommends": {
+		"modmenu": ">=20.0.1"
+	}
+}
