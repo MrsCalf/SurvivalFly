@@ -42,7 +42,7 @@ A lightweight Fabric mod for **Minecraft: Java Edition 26.2** that grants tempor
 - **Source:** <https://github.com/MrsCalf/SurvivalFly>
 - **Homepage:** <https://github.com/MrsCalf>
 - **Issues:** <https://github.com/MrsCalf/SurvivalFly/issues>
-- **License:** MIT
+- **License:** CC0
 
 ---
 
@@ -88,4 +88,4 @@ A lightweight Fabric mod for **Minecraft: Java Edition 26.2** that grants tempor
 - **源码地址：** <https://github.com/MrsCalf/SurvivalFly>
 - **官网：** <https://github.com/MrsCalf>
 - **问题反馈：** <https://github.com/MrsCalf/SurvivalFly/issues>
-- **许可证：** MIT
+- **许可证：** CC0
